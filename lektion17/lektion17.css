@@ -1,0 +1,8 @@
+/* Dette er en kommentar! - lav din css kode herunder */
+
+/*imgdiv*/
+.imgdiv {
+    width: 500px;
+    height: 500px;
+    background-image: url(500x500.jpg);
+}

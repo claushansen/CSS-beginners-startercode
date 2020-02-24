@@ -1,0 +1,23 @@
+/* Dette er en kommentar! - lav din css kode herunder */
+
+/*static*/
+.static {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+}
+
+/*fixed*/
+.fixed {
+
+}
+
+/*relative*/
+.relative {
+    
+}
+
+/*absolute*/
+.absolute {
+    
+}

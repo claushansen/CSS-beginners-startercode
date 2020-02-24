@@ -1,0 +1,29 @@
+/* Dette er en kommentar! - lav din css kode herunder */
+
+/*float*/
+.float {
+
+}
+/*Paragraphs*/
+p {
+    font-size: 26px;
+}
+
+/* p med class clear*/
+p.clear {
+
+}
+
+/*Div 1*/
+.div1 {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+}
+
+/*Div 2*/
+.div2 {
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+}

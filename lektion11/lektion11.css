@@ -1,0 +1,18 @@
+/* Dette er en kommentar! - lav din css kode herunder */
+
+/*billedediv*/
+.firkant {
+    width: 600px;
+    height: 400px;
+    border: 1px solid black    
+}
+ /*pow billede*/
+.pow {
+  
+ 
+}
+ /*Tekst p*/
+.tekst {
+    font-size: 30px;
+    
+}
